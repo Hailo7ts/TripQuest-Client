@@ -4,7 +4,7 @@ import HomePage from './pages/HomePage';
 import PostPage from './pages/PostPage';
 import NewPostPage from './pages/NewPostPage';
 import EditPage from './pages/EditPage';
-import NavBar from './components/NavBar/';
+import NavBar from './components/Navbar';
 
 
 function App() {
